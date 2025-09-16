@@ -1,0 +1,17 @@
+/* globals.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Typo un peu plus ronde si tu utilises la police par défaut */
+:root {
+  --tw-ring-color: rgb(253 164 175 / 0.4); /* rose-300/40 */
+}
+
+html, body {
+  scroll-behavior: smooth;
+}
+
+*::selection {
+  background: #fecdd3; /* rose-200 */
+}
