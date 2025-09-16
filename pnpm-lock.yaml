@@ -12,6 +12,9 @@ dependencies:
   next:
     specifier: 15.2.0
     version: 15.2.0(react-dom@19.0.0)(react@19.0.0)
+  nodemailer:
+    specifier: ^7.0.6
+    version: 7.0.6
   react:
     specifier: 19.0.0
     version: 19.0.0
@@ -2483,6 +2486,11 @@ packages:
     transitivePeerDependencies:
       - '@babel/core'
       - babel-plugin-macros
+    dev: false
+
+  /nodemailer@7.0.6:
+    resolution: {integrity: sha512-F44uVzgwo49xboqbFgBGkRaiMgtoBrBEWCVincJPK9+S9Adkzt/wXCLKbf7dxucmxfTI5gHGB+bEmdyzN6QKjw==}
+    engines: {node: '>=6.0.0'}
     dev: false
 
   /normalize-path@3.0.0:
