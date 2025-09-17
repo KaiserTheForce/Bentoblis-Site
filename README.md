@@ -39,7 +39,7 @@ Ce projet met en avant mes compétences en **développement web** et **design UX
 ![Accueil](https://github.com/user-attachments/assets/3ae06f6a-5fd9-48f6-aec6-50bb01da5921)
 
 ### Catalogue Produits
-![Catalogue](https://placehold.co/1200x675/png?text=Accueil+BentoBliss)
+![Catalogue](https://github.com/user-attachments/assets/7a7d42d1-c0df-4bc2-843f-99c03310870e)
 
 ### Commande Mobile
 ![Mobile](https://github.com/user-attachments/assets/3ade5bb3-eb9d-4cb3-b13f-b8572a70668d)
